@@ -74,3 +74,9 @@ Project Structure
 script.py: Main code for hand and face tracking, gesture detection, and socket communication.
 requirements.txt: Lists all the required libraries for running the script.
 
+Demo
+
+Check out the demo of the project on Instagram.
+
+
+
